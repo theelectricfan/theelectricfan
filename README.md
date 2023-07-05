@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @theelectricfan
+- 👋 Hi, I’m Akshat Singh Raghuwanshi
 - 👀 I’m interested in game development
 - 🌱 I’m currently practicing data structures and algorithm.
 - 💞️ I’m looking to collaborate on game development projects.
