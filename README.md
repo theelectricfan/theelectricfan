@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gourav Goyalk</h1>
+<h1 align="center">Hi 👋, I'm Gourav Goyal</h1>
 <h3 align="center">Front End Developer | Passionate Coder</h3>
 
 ## 💫 About Me:
