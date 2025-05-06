@@ -1,6 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gourav Goyal</h1>
-<h3 align="center">Front End Developer | Passionate Coder</h3>
-
+<h1 align="center">Hi 👋, I'm Akshat Singh Raghuwanshi</h1>
 ## 💫 About Me:
 
 <img align="right" alt="coding" width="300" src="https://www.lambdatest.com/resources/images/ezgif.com-gif-maker-16.gif">
